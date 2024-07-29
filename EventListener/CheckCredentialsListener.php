@@ -22,7 +22,7 @@ use Symfony\Component\Security\Http\Authenticator\Passport\Credentials\PasswordC
 use Symfony\Component\Security\Http\Event\CheckPassportEvent;
 
 /**
- * This listeners uses the interfaces of authenticators to
+ * This listener uses the interfaces of authenticators to
  * determine how to check credentials.
  *
  * @author Wouter de Jong <wouter@driveamber.com>
